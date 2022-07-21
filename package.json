@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/stath011/Moshify#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.3"
   }
 }
